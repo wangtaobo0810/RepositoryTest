@@ -1,2 +1,6 @@
 helloworld helloworld
+<<<<<<< HEAD
 ddfdfdfdfdfdf
+=======
+11111111
+>>>>>>> 7ee1d7d057253311bb01c2beb1b7e95f8dd908c6
